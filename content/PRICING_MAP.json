@@ -1,0 +1,28 @@
+{
+  "_doc": "Sektion → Preisreferenzen. sw:<item_number> = FN_MASTERDATA.articles · hw:<article_number> = FN_HARDWARE_MASTERDATA.products (rrp_eu_net). music = Lizenz-Staffel. Renderer liest die Brain-Dateien LIVE — Preisänderung dort = Katalog aktuell nach Rebuild. Offene Zuordnungen (kein Artikel im Brain): manager, dashboard, fairtrain → bewusst ohne Preisblock.",
+  "gesamt": {
+    "membership": ["sw:FN-MG-2200", "sw:FN-MG-2000"],
+    "app": ["sw:FN-GR-3000"],
+    "coach": ["sw:FN-RV-4000"],
+    "trainer": ["sw:FN-GR-3100"],
+    "marketing": ["sw:FN-GR-3200"],
+    "shop": ["sw:FN-RV-4100"],
+    "tv": ["sw:FN-RV-4200", "hw:DE-20600", "hw:DE-20315", "hw:DE-20316"],
+    "sound-music": ["sw:FN-SP-5100", "music"],
+    "bodycheck": ["hw:DE-20100"],
+    "terminal": ["hw:DE-20300", "hw:DE-20310", "hw:DE-20320"],
+    "vending-nutrition": ["hw:DE-20250", "hw:DE-20251", "hw:DE-20256", "hw:DE-20255", "hw:DE-20257", "sw:FN-SP-5200"],
+    "locks-gates-access": ["hw:DE-20500", "hw:DE-20501", "hw:DE-20410", "hw:DE-20420", "hw:DE-20430", "hw:DE-20330", "hw:DE-20335", "hw:DE-20333"]
+  },
+  "smart": {
+    "coach": ["sw:FN-RV-4000"],
+    "trainer": ["sw:FN-GR-3100"],
+    "bodycheck": ["hw:DE-20100"],
+    "kiosk": ["hw:DE-20310", "hw:DE-20300"],
+    "screens": ["hw:DE-20315", "hw:DE-20316", "hw:DE-20600"],
+    "shop": ["sw:FN-RV-4100"],
+    "vending": ["hw:DE-20250", "hw:DE-20251", "hw:DE-20256", "hw:DE-20255", "sw:FN-SP-5200"],
+    "locks": ["hw:DE-20500", "hw:DE-20501"],
+    "gates-access": ["hw:DE-20410", "hw:DE-20420", "hw:DE-20430", "hw:DE-20330", "hw:DE-20335"]
+  }
+}

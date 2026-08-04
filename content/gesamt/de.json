@@ -1,0 +1,1437 @@
+{
+  "catalog": "gesamt",
+  "lang": "de",
+  "meta": {
+    "brand": "fitness nation",
+    "title": "The Intelligent Operating System for Fitness & Health",
+    "claim": "Software. Hardware. AI. One connected platform.",
+    "subline": "Eine vernetzte Plattform für intelligentere Prozesse, stärkere Mitgliederbindung und nachhaltiges Wachstum.",
+    "highlight": "AI-powered. Fully connected. Built for fitness.",
+    "positioning": "Fitness Nation verbindet Mitgliederverwaltung, Studio-App, künstliche Intelligenz, Marketing, Coaching, Entertainment, Verkaufssysteme und Hardware in einer gemeinsamen Plattform.",
+    "contact": {
+      "company": "fitness nation GmbH",
+      "street": "Bergstraße 18",
+      "city": "59394 Nordkirchen",
+      "hotline": "+49 (0) 2596 / 614820",
+      "email": "info@fitness-nation.com",
+      "warehouse": "fitness nation | warehouse · Am Herdicksbach 4 · 45731 Waltrop"
+    }
+  },
+  "sections": [
+    {
+      "id": "cover",
+      "type": "cover",
+      "kicker": "fitness nation",
+      "headline": "The Intelligent Operating System\nfor Fitness & Health",
+      "sub": "Software. Hardware. AI. One connected platform.",
+      "body": [
+        "Eine vernetzte Plattform für intelligentere Prozesse, stärkere Mitgliederbindung und nachhaltiges Wachstum."
+      ],
+      "bottomline": "AI-powered. Fully connected. Built for fitness.",
+      "visual": {
+        "asset": "",
+        "brief": "Hochwertiges, modernes Studio als Gesamtwelt: Mitglied am Zugang, App auf Smartphone, Bodycheck, digitaler Screen, KI-Chat, Management-Dashboard, Selfservice-Terminal. NICHT als unruhige Collage — Produkte in einem räumlichen Premium-Setting verbunden; die KI als subtile digitale Lichtlinie, die sich durch alle Kontaktpunkte zieht."
+      }
+    },
+    {
+      "id": "vision",
+      "type": "vision",
+      "eyebrow": "Die Vision",
+      "headline": "Fitnessstudios brauchen heute mehr als Software.\nSie brauchen ein System, das mitdenkt.",
+      "body": [
+        "Der Fitnessmarkt verändert sich. Mitglieder erwarten digitale Services, individuelle Betreuung und reibungslose Abläufe. Gleichzeitig steigen Personalkosten, Verwaltungsaufwand und Wettbewerbsdruck.",
+        "Fitness Nation verbindet deshalb zentrale Studiofunktionen in einer intelligenten Plattform.",
+        "Mitgliederverwaltung, App, KI, Marketing, Coaching, Entertainment, Verkaufssysteme und Hardware greifen nahtlos ineinander. Informationen müssen nicht mehrfach gepflegt werden. Prozesse lassen sich automatisieren. Teams werden entlastet. Mitglieder erleben ein modernes Studio, das sie an jedem relevanten Kontaktpunkt digital begleitet."
+      ],
+      "statement": "Ein System für den gesamten Weg des Mitglieds.\nVom ersten Interesse bis zur langfristigen Bindung."
+    },
+    {
+      "id": "challenges",
+      "type": "challenge",
+      "eyebrow": "Die Herausforderungen",
+      "headline": "Die größten Herausforderungen moderner Studios sind längst miteinander verbunden.",
+      "blocks": [
+        {
+          "kind": "pains",
+          "items": [
+            {
+              "t": "Personalmangel",
+              "d": "Wiederkehrende Aufgaben beanspruchen wertvolle Zeit, die für Beratung und Betreuung fehlt."
+            },
+            {
+              "t": "Fragmentierte Systeme",
+              "d": "Unterschiedliche Anbieter und Insellösungen erschweren Prozesse, Datenpflege und Weiterentwicklung."
+            },
+            {
+              "t": "Steigende Erwartungen",
+              "d": "Mitglieder erwarten Selfservice, digitale Buchungen, schnelle Antworten und individuelle Betreuung."
+            },
+            {
+              "t": "Hoher Verwaltungsaufwand",
+              "d": "Verträge, Zahlungen, Kommunikation, Buchungen und Support binden täglich Ressourcen."
+            },
+            {
+              "t": "Fehlende Personalisierung",
+              "d": "Viele Mitglieder erhalten trotz unterschiedlicher Ziele nahezu dieselbe Betreuung."
+            },
+            {
+              "t": "Ungenutzte Umsatzpotenziale",
+              "d": "Shop, Marketing, Zusatzleistungen, Selfservice und digitale Angebote sind häufig nicht ausreichend miteinander verbunden."
+            }
+          ]
+        }
+      ],
+      "closing": "Fitness Nation macht aus diesen Herausforderungen ein vernetztes System."
+    },
+    {
+      "id": "ecosystem",
+      "type": "system",
+      "eyebrow": "Das Fitness-Nation-Ökosystem",
+      "headline": "Eine Plattform. Alle Möglichkeiten.",
+      "blocks": [
+        {
+          "kind": "groups",
+          "center": "fitness nation platform",
+          "groups": [
+            {
+              "name": "Manage",
+              "items": [
+                "Membership",
+                "Manager",
+                "Dashboard",
+                "Analytics"
+              ]
+            },
+            {
+              "name": "Engage",
+              "items": [
+                "App",
+                "Coach",
+                "Trainer",
+                "Community"
+              ]
+            },
+            {
+              "name": "Grow",
+              "items": [
+                "Marketing",
+                "Shop",
+                "Vending",
+                "Nutrition"
+              ]
+            },
+            {
+              "name": "Experience",
+              "items": [
+                "TV",
+                "Sound",
+                "Music",
+                "Content"
+              ]
+            },
+            {
+              "name": "Connect",
+              "items": [
+                "Bodycheck",
+                "Terminal",
+                "Locks",
+                "Gates",
+                "Access"
+              ]
+            },
+            {
+              "name": "Expand",
+              "items": [
+                "FairTrain",
+                "Corporate Health",
+                "ReadyHealth",
+                "Partner Solutions"
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "ai_layer",
+          "title": "fitness nation | AI",
+          "sub": "Die Intelligenzschicht der Plattform",
+          "items": [
+            "Daten",
+            "Kommunikation",
+            "Automatisierung",
+            "Personalisierung",
+            "Content",
+            "Coaching",
+            "Analyse",
+            "Support"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-layer",
+      "type": "ai",
+      "eyebrow": "Die KI-Ebene",
+      "headline": "KI ist bei Fitness Nation kein einzelnes Produkt.\nSie ist Teil des gesamten Systems.",
+      "body": [
+        "Die integrierte künstliche Intelligenz unterstützt Studios in unterschiedlichen Bereichen. Sie hilft Interessenten bei ersten Fragen, begleitet Mitglieder im Alltag, unterstützt Teams bei wiederkehrenden Aufgaben und macht Informationen schneller nutzbar.",
+        "Dabei bleibt die Technologie im Hintergrund. Im Vordergrund steht immer der konkrete Nutzen für Studio, Team und Mitglied."
+      ],
+      "blocks": [
+        {
+          "kind": "groups",
+          "groups": [
+            {
+              "name": "KI im Vertrieb",
+              "items": [
+                "Interessenten digital ansprechen",
+                "Fragen automatisiert beantworten",
+                "Probetrainings vorbereiten",
+                "Leads strukturiert weiterführen",
+                "Follow-ups unterstützen"
+              ]
+            },
+            {
+              "name": "KI im Support",
+              "items": [
+                "wiederkehrende Fragen beantworten",
+                "Informationen aus der Wissensbasis bereitstellen",
+                "Anfragen kategorisieren",
+                "Gesprächsverläufe zusammenfassen",
+                "Mitarbeitende gezielt unterstützen"
+              ]
+            },
+            {
+              "name": "KI in der Mitgliederbetreuung",
+              "items": [
+                "individuelle Motivation",
+                "personalisierte Trainingsimpulse",
+                "Ernährungsunterstützung",
+                "Fortschrittsbegleitung",
+                "kontextbezogene Empfehlungen"
+              ]
+            },
+            {
+              "name": "KI im Marketing",
+              "items": [
+                "Inhalte vorbereiten",
+                "Kampagnenideen entwickeln",
+                "Zielgruppenansprache unterstützen",
+                "Texte und Kommunikationsvarianten erstellen",
+                "bestehende Mitglieder gezielter aktivieren"
+              ]
+            },
+            {
+              "name": "KI im Management",
+              "items": [
+                "relevante Entwicklungen verständlich darstellen",
+                "Daten zusammenfassen",
+                "Auffälligkeiten schneller sichtbar machen",
+                "operative Informationen priorisieren",
+                "Entscheidungen besser vorbereiten"
+              ]
+            }
+          ]
+        }
+      ],
+      "statement": "Künstliche Intelligenz ersetzt nicht die persönliche Beziehung.\nSie schafft mehr Zeit dafür."
+    },
+    {
+      "id": "member-journey",
+      "type": "journey",
+      "eyebrow": "Die Member Journey",
+      "headline": "Ein Mitglied. Eine vernetzte Reise.",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            {
+              "n": "1",
+              "t": "Entdecken",
+              "d": "Das Mitglied sieht eine Kampagne, Landingpage oder Empfehlung.",
+              "ref": "fitness nation | Marketing"
+            },
+            {
+              "n": "2",
+              "t": "Informieren",
+              "d": "Ein KI-gestützter Assistent beantwortet Fragen und begleitet den Interessenten.",
+              "ref": "fitness nation | Manager"
+            },
+            {
+              "n": "3",
+              "t": "Abschließen",
+              "d": "Probetraining oder Mitgliedschaft werden digital abgeschlossen.",
+              "ref": "fitness nation | Membership"
+            },
+            {
+              "n": "4",
+              "t": "Einchecken",
+              "d": "Der Zugang erfolgt per RFID, NFC oder QR-Code.",
+              "ref": "fitness nation | Access"
+            },
+            {
+              "n": "5",
+              "t": "Analysieren",
+              "d": "Körperdaten werden erfasst und digital dokumentiert.",
+              "ref": "fitness nation | Bodycheck"
+            },
+            {
+              "n": "6",
+              "t": "Begleiten",
+              "d": "Der digitale Coach unterstützt bei Training, Ernährung und Motivation.",
+              "ref": "fitness nation | Coach"
+            },
+            {
+              "n": "7",
+              "t": "Aktivieren",
+              "d": "App, Pushnachrichten, Community und Inhalte halten den Kontakt aufrecht.",
+              "ref": "fitness nation | App"
+            },
+            {
+              "n": "8",
+              "t": "Monetarisieren",
+              "d": "Produkte und Zusatzleistungen werden digital angeboten.",
+              "ref": "fitness nation | Shop, Vending und Terminal"
+            },
+            {
+              "n": "9",
+              "t": "Binden",
+              "d": "Fortschritte, Kommunikation und personalisierte Impulse stärken die langfristige Beziehung.",
+              "ref": ""
+            }
+          ]
+        }
+      ],
+      "closing": "Jeder Kontaktpunkt arbeitet zusammen. Kein Schritt steht isoliert."
+    },
+    {
+      "id": "ch-management",
+      "type": "chapter",
+      "chapter": "Studio Management",
+      "headline": "Weniger verwalten. Mehr gestalten.",
+      "body": [
+        "Fitness Nation digitalisiert zentrale Verwaltungs- und Serviceprozesse des Studios. Verträge, Buchungen, Zahlungen, Kommunikation und Reportings greifen in einer gemeinsamen Plattform ineinander.",
+        "Künstliche Intelligenz unterstützt dort, wo wiederkehrende Informationen verarbeitet, Fragen beantwortet oder Daten verständlich aufbereitet werden können."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "In diesem Kapitel",
+          "items": [
+            "fitness nation | Membership",
+            "fitness nation | Manager",
+            "Dashboard & Analytics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "membership",
+      "type": "product",
+      "chapter": "Studio Management",
+      "kicker": "fitness nation | Membership",
+      "headline": "Die Mitgliederverwaltung, die Prozesse verbindet.",
+      "body": [
+        "fitness nation | Membership bildet die zentralen Abläufe deines Studios digital ab – vom ersten Probetraining über den Vertragsabschluss bis zur laufenden Mitgliederbetreuung.",
+        "Mitglieder können viele Vorgänge selbstständig über App, Website oder Selfservice-Systeme erledigen. Dein Team behält Verträge, Buchungen, Beiträge, Kommunikation und relevante Kennzahlen zentral im Blick.",
+        "Die integrierte KI unterstützt bei Mitgliederfragen, Informationssuche, Gesprächszusammenfassungen und wiederkehrenden Supportprozessen."
+      ],
+      "blocks": [
+        {
+          "kind": "benefits",
+          "title": "Was es deinem Studio bringt",
+          "items": [
+            {
+              "t": "Weniger manueller Aufwand",
+              "d": "Wiederkehrende Prozesse lassen sich automatisieren oder durch das Mitglied selbst erledigen."
+            },
+            {
+              "t": "Schnellere Abläufe",
+              "d": "Digitale Abschlüsse, Buchungen und Selfservice-Funktionen reduzieren Wartezeiten."
+            },
+            {
+              "t": "Mehr Transparenz",
+              "d": "Wichtige Daten und Entwicklungen laufen in einer zentralen Plattform zusammen."
+            },
+            {
+              "t": "Modernerer Service",
+              "d": "Mitglieder erhalten digitale Services im eigenen Studiodesign."
+            }
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Kernfunktionen",
+          "items": [
+            "Online-Probetraining",
+            "digitaler Mitgliedschaftsabschluss",
+            "Vertragsverwaltung",
+            "Kurs- und Terminbuchung",
+            "Selfservice",
+            "Tarife und Zusatzleistungen",
+            "Kassensystem",
+            "Lastschrifteinzug",
+            "Bankschnittstelle",
+            "Mahnwesen",
+            "Inkassoschnittstelle",
+            "Buchhaltungsschnittstelle",
+            "Zugriffsrechte und Rollen",
+            "Studio-App",
+            "Integrationen und Schnittstellen"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "KI-Integration",
+          "items": [
+            "KI-gestützter Mitgliedersupport",
+            "intelligente Suche in Studioinformationen",
+            "automatische Gesprächszusammenfassungen",
+            "Unterstützung bei wiederkehrenden Anfragen",
+            "vorbereitete Antworten für Mitarbeitende"
+          ]
+        },
+        {
+          "kind": "ai_badge",
+          "items": [
+            "Support beantworten",
+            "Gespräche zusammenfassen",
+            "Informationen schneller finden"
+          ]
+        }
+      ],
+      "statement": "Dein Studio läuft weiter.\nAuch wenn dein Team gerade keine Zeit hat."
+    },
+    {
+      "id": "manager",
+      "type": "product",
+      "chapter": "Studio Management",
+      "kicker": "fitness nation | Manager",
+      "headline": "Dein digitaler Assistent für Vertrieb und Support.",
+      "body": [
+        "fitness nation | Manager unterstützt dein Team bei der Kommunikation mit Interessenten und Mitgliedern.",
+        "Der KI-gestützte Assistent beantwortet wiederkehrende Fragen, begleitet Interessenten durch erste Verkaufsgespräche und unterstützt bei Probetrainings-, Termin- und Mitgliedschaftsanfragen.",
+        "Anstatt jeden Kontakt identisch zu behandeln, kann der Dialog anhand des bisherigen Gesprächs und der verfügbaren Informationen fortgeführt werden."
+      ],
+      "blocks": [
+        {
+          "kind": "chat",
+          "meta": "James · dein KI-Assistent in fitness nation | Manager",
+          "items": [
+            {
+              "from": "in",
+              "text": "Hi! Was kostet bei euch eine Mitgliedschaft?"
+            },
+            {
+              "from": "out",
+              "text": "Hi! Gern zeige ich dir unsere Tarife. Trainierst du eher flexibel oder suchst du eine feste Mitgliedschaft?"
+            },
+            {
+              "from": "in",
+              "text": "Eher fest. Kann ich vorher ein Probetraining machen?"
+            },
+            {
+              "from": "out",
+              "text": "Klar. Samstag 10:00 oder 14:00 Uhr wäre frei. Ich reserviere dir einen Termin und schicke dir alle Infos."
+            },
+            {
+              "from": "sys",
+              "text": "Zusammenfassung für das Team: Interessent · Ziel Muskelaufbau · Probetraining Sa 10:00 · Tarif-Frage offen"
+            }
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Im Vertrieb",
+          "items": [
+            "digitale Erstberatung",
+            "Beantwortung typischer Interessentenfragen",
+            "Qualifizierung von Anfragen",
+            "Probetrainingsanfragen",
+            "Terminvorbereitung",
+            "Follow-up-Unterstützung",
+            "Weiterleitung an Mitarbeitende"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Im Support",
+          "items": [
+            "häufige Mitgliederfragen",
+            "Studioinformationen",
+            "Tarif- und Leistungsinformationen",
+            "Unterstützung bei Buchungen",
+            "strukturierte Übergabe an das Team",
+            "Gesprächszusammenfassungen",
+            "Nutzung einer studiobezogenen Wissensbasis"
+          ]
+        },
+        {
+          "kind": "benefits",
+          "title": "Nutzen",
+          "items": [
+            {
+              "t": "24/7 erreichbar",
+              "d": "Interessenten und Mitglieder erhalten auch außerhalb der Servicezeiten Unterstützung."
+            },
+            {
+              "t": "Schnellere Reaktionen",
+              "d": "Anfragen bleiben nicht unnötig lange unbeantwortet."
+            },
+            {
+              "t": "Bessere Übergaben",
+              "d": "Mitarbeitende erhalten strukturierte Informationen statt unübersichtlicher Chatverläufe."
+            },
+            {
+              "t": "Skalierbarer Service",
+              "d": "Wiederkehrende Kommunikation wächst nicht automatisch mit dem Personalbedarf."
+            }
+          ]
+        },
+        {
+          "kind": "ai_badge",
+          "items": [
+            "Qualifiziert Anfragen",
+            "Erinnert sich an den Gesprächskontext",
+            "Fasst Dialoge für dein Team zusammen"
+          ]
+        },
+        {
+          "kind": "note",
+          "text": "Persona-Regel: James, your AI assistant in fitness nation | Manager. Visuelles Zentrum: EIN großer, hochwertiger Chatverlauf + daneben eine reale Studiosituation — nicht zehn kleine Screenshots."
+        }
+      ],
+      "statement": "Jeder Lead verdient eine Antwort.\nJede Anfrage einen nächsten Schritt.",
+      "visual": {
+        "asset": "",
+        "brief": "Großer hochwertiger Chatverlauf + daneben EINE reale Studiosituation. Nicht zehn kleine Screenshots."
+      }
+    },
+    {
+      "id": "dashboard",
+      "type": "product",
+      "chapter": "Studio Management",
+      "kicker": "Dashboard & Analytics",
+      "headline": "Aus Daten werden Entscheidungen.",
+      "body": [
+        "Das Fitness-Nation-Dashboard bringt zentrale Informationen aus Verwaltung, Vertrieb, App, Buchungen, Check-ins, Shop und Kommunikation zusammen.",
+        "Statt Daten ausschließlich in Tabellen darzustellen, werden relevante Entwicklungen klar visualisiert und in einen verständlichen Zusammenhang gebracht.",
+        "Die KI kann Managementinformationen verdichten, Entwicklungen zusammenfassen und dabei helfen, Auffälligkeiten schneller zu erkennen."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Das Dashboard zeigt unter anderem",
+          "items": [
+            "Mitgliederentwicklung",
+            "neue Mitgliedschaften",
+            "Kündigungen",
+            "zahlende Mitglieder",
+            "Check-ins und Auslastung",
+            "Vertragsentwicklung",
+            "Umsätze",
+            "Shop-Verkäufe",
+            "Buchungen",
+            "Kursauslastung",
+            "Supportaktivitäten",
+            "offene Aufgaben"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "AI-powered Insights",
+          "items": [
+            "automatische Managementzusammenfassungen",
+            "verständliche KPI-Erklärungen",
+            "Hervorhebung relevanter Veränderungen",
+            "strukturierte Wochen- und Monatsübersichten",
+            "schnellere Identifikation von Handlungsfeldern"
+          ]
+        }
+      ],
+      "statement": "Nicht mehr Daten.\nMehr Klarheit."
+    },
+    {
+      "id": "ch-experience",
+      "type": "chapter",
+      "chapter": "Member Experience",
+      "headline": "Digitale Betreuung, die persönlich wirkt.",
+      "body": [
+        "Mitglieder erwarten heute mehr als einen Trainingsort. Sie erwarten Orientierung, Motivation, Service und relevante Inhalte.",
+        "Fitness Nation verbindet App, KI-Coaching, Trainingsbetreuung, Community und Körperanalyse zu einem digitalen Mitgliedererlebnis."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "In diesem Kapitel",
+          "items": [
+            "fitness nation | App",
+            "fitness nation | Coach",
+            "fitness nation | Trainer",
+            "fitness nation | Bodycheck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "app",
+      "type": "product",
+      "chapter": "Member Experience",
+      "kicker": "fitness nation | App",
+      "headline": "Dein Studio. Immer dabei.",
+      "body": [
+        "Die Fitness-Nation-App bringt zentrale Studiofunktionen auf das Smartphone deiner Mitglieder – vollständig im eigenen Design und modular an dein Angebot anpassbar.",
+        "Mitglieder buchen Kurse und Termine, verwalten ihre Mitgliedschaft, erhalten News und Pushnachrichten, nutzen Trainingsinhalte, kaufen Produkte und bleiben mit dem Studio verbunden.",
+        "Die App bildet zugleich die zentrale Oberfläche für KI-gestützte Betreuung, digitale Services und persönliche Empfehlungen."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Funktionen",
+          "items": [
+            "Mitglieder-Selfservice",
+            "Kursbuchung",
+            "Terminbuchung",
+            "Verträge",
+            "Pushnachrichten",
+            "News und Beiträge",
+            "Studioinformationen",
+            "Studiofinder",
+            "Community",
+            "Trainingspartnersuche",
+            "Übungsbibliothek",
+            "Workout Timer",
+            "Training",
+            "Ernährung",
+            "Online-Shop",
+            "digitale Inhalte",
+            "Magicline-Schnittstelle",
+            "weitere Module aktivierbar"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "KI in der App",
+          "items": [
+            "persönlicher digitaler Begleiter",
+            "individualisierte Inhalte",
+            "intelligente Fragen und Antworten",
+            "Trainings- und Motivationsimpulse",
+            "kontextbezogene Unterstützung",
+            "Empfehlungen auf Basis freigegebener Informationen"
+          ]
+        },
+        {
+          "kind": "benefits",
+          "title": "Customized App",
+          "items": [
+            {
+              "t": "Vollständig individualisiert",
+              "d": "Auf Wunsch wird die App als vollständig individualisierte Studiolösung umgesetzt – mit eigenem Namen, Design, Inhalten und modularer Funktionsauswahl."
+            }
+          ]
+        }
+      ],
+      "statement": "Aus einer Studio-App wird ein täglicher Begleiter."
+    },
+    {
+      "id": "coach",
+      "type": "product",
+      "chapter": "Member Experience",
+      "kicker": "fitness nation | Coach",
+      "headline": "Individuelle Betreuung. Digital skalierbar.",
+      "body": [
+        "fitness nation | Coach begleitet Mitglieder bei Training, Ernährung, Motivation und gesundheitsorientierten Routinen.",
+        "Der KI-gestützte Coach kann Ziele, Fortschritte und freigegebene Daten berücksichtigen, um die Betreuung individueller und relevanter zu gestalten.",
+        "So entsteht eine kontinuierliche Begleitung, die nicht auf den nächsten Trainertermin warten muss."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Coachingbereiche",
+          "items": [
+            "Training",
+            "Ernährung",
+            "Motivation",
+            "Alltag und Routinen",
+            "Fortschrittsdokumentation",
+            "Zielbegleitung",
+            "Bodycheck-Integration",
+            "digitale Challenges"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Für Mitglieder",
+          "items": [
+            "tägliche Orientierung",
+            "verständliche Empfehlungen",
+            "individuelle Motivation",
+            "Hilfe bei Rückschlägen",
+            "nachvollziehbare Fortschritte",
+            "Betreuung außerhalb des Studios"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Für Studios",
+          "items": [
+            "skalierbare digitale Betreuung",
+            "stärkere Mitgliederaktivierung",
+            "zusätzliche Coaching-Angebote",
+            "Entlastung bei Standardfragen",
+            "engere Verbindung zwischen Mitglied und Studio"
+          ]
+        },
+        {
+          "kind": "benefits",
+          "title": "Highlight",
+          "items": [
+            {
+              "t": "60-Tage-Challenge",
+              "d": "Ein strukturiertes digitales Programm mit KI-gestützter Trainings-, Ernährungs- und Motivationsbegleitung."
+            }
+          ]
+        },
+        {
+          "kind": "ai_badge",
+          "items": [
+            "Ziele verstehen",
+            "Motivation personalisieren",
+            "Fortschritt begleiten"
+          ]
+        },
+        {
+          "kind": "note",
+          "text": "Persona-Regel: Robin is powered by fitness nation | Coach."
+        }
+      ],
+      "statement": "Ein Coach, der nicht nur antwortet.\nSondern den Alltag versteht."
+    },
+    {
+      "id": "trainer",
+      "type": "product",
+      "chapter": "Member Experience",
+      "kicker": "fitness nation | Trainer",
+      "headline": "Mehr Zeit für echte Betreuung.",
+      "body": [
+        "fitness nation | Trainer verbindet Trainingsplanung, Mitgliederdaten, Termine und relevante Informationen in einer digitalen Arbeitsumgebung.",
+        "Trainer erhalten einen strukturierten Überblick und können Mitglieder effizienter und individueller begleiten.",
+        "KI-gestützte Funktionen können bei der Vorbereitung, Zusammenfassung und strukturierten Dokumentation der Betreuung unterstützen."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Funktionen",
+          "items": [
+            "digitale Trainingsplanung",
+            "Übungsbibliothek",
+            "Trainertermine",
+            "Kursbuchung",
+            "Kursplanung",
+            "Mitgliederinformationen",
+            "digitale Trainerpads",
+            "Trainer Call",
+            "Verlaufsdokumentation",
+            "Verbindung zu App und Coach"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "KI-Unterstützung für Trainer",
+          "items": [
+            "Zusammenfassung relevanter Mitgliedsinformationen",
+            "Vorbereitung auf Betreuungstermine",
+            "Vorschläge für Trainingsinhalte",
+            "Dokumentationsunterstützung",
+            "strukturierte Nachbereitung",
+            "Überführung von Daten in verständliche Informationen"
+          ]
+        }
+      ],
+      "statement": "Technologie im Hintergrund.\nPersönliche Betreuung im Mittelpunkt."
+    },
+    {
+      "id": "bodycheck",
+      "type": "product",
+      "chapter": "Member Experience",
+      "kicker": "fitness nation | Bodycheck",
+      "headline": "Fortschritt sichtbar machen.",
+      "body": [
+        "fitness nation | Bodycheck ermöglicht moderne BIA-Körperanalysen direkt im Studio.",
+        "Die Messergebnisse werden digital in das Mitgliederprofil übertragen und in übersichtlichen Verläufen dokumentiert. In Verbindung mit App und Coach können die Daten für individuellere Trainings- und Betreuungsprozesse genutzt werden."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Funktionen",
+          "items": [
+            "moderne BIA-Messung",
+            "QR-Code-gestützter Ablauf",
+            "Übertragung in das App-Profil",
+            "digitale Verlaufsdarstellung",
+            "Integration in Coaching-Prozesse",
+            "Selfservice-Nutzung",
+            "EGYM-Schnittstelle",
+            "Darstellung im Studiodesign"
+          ]
+        },
+        {
+          "kind": "benefits",
+          "title": "Intelligente Datennutzung",
+          "items": [
+            {
+              "t": "Verstehen statt nur messen",
+              "d": "Die KI kann freigegebene Messwerte in verständliche Zusammenhänge einordnen und bei der Ableitung passender Trainings- und Motivationsimpulse unterstützen."
+            }
+          ]
+        }
+      ],
+      "statement": "Nicht nur messen.\nVerstehen, was Fortschritt bedeutet."
+    },
+    {
+      "id": "ch-growth",
+      "type": "chapter",
+      "chapter": "Growth & Revenue",
+      "headline": "Aus digitalen Kontaktpunkten werden neue Umsatzpotenziale.",
+      "body": [
+        "Fitness Nation verbindet Marketing, Shop, Selfservice und automatisierte Verkaufssysteme.",
+        "Mitglieder erhalten relevante Angebote dort, wo sie ohnehin mit dem Studio interagieren: in der App, auf der Website, am Terminal, im Studio oder im persönlichen Dialog."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "In diesem Kapitel",
+          "items": [
+            "fitness nation | Marketing",
+            "fitness nation | Shop",
+            "fitness nation | Terminal",
+            "fitness nation | Vending",
+            "fitness nation | Nutrition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "type": "product",
+      "chapter": "Growth & Revenue",
+      "kicker": "fitness nation | Marketing",
+      "headline": "Marketing, das mit deinem Studio verbunden ist.",
+      "body": [
+        "fitness nation | Marketing verbindet Kampagnen, Landingpages, digitale Aktionen und Mitgliederkommunikation mit der Fitness-Nation-Plattform.",
+        "Dadurch endet Marketing nicht beim Klick. Interessenten können direkt zu Probetrainings, Angeboten oder Mitgliedschaften geführt werden.",
+        "KI unterstützt bei der Entwicklung von Kampagnenideen, Texten, Varianten und zielgruppengerechter Kommunikation."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Funktionen",
+          "items": [
+            "Landingpages",
+            "Angebotsseiten",
+            "Probetrainingsvereinbarung",
+            "E-Mail-Funnel",
+            "Couponaktionen",
+            "Glücksrad",
+            "Adventskalender",
+            "Popups",
+            "Banner",
+            "Linkpages",
+            "Website-Integration",
+            "Zapier API",
+            "Brevo-Integration",
+            "HubSpot-Integration"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "AI-powered Marketing",
+          "items": [
+            "Kampagnenideen",
+            "Textvorschläge",
+            "Betreffzeilen",
+            "Varianten für unterschiedliche Zielgruppen",
+            "Social-Media-Copy",
+            "Pushnachrichten",
+            "Reaktivierungskampagnen",
+            "strukturierte Kommunikationspläne"
+          ]
+        },
+        {
+          "kind": "ai_badge",
+          "items": [
+            "Kampagnen entwickeln",
+            "Texte erstellen",
+            "Zielgruppen ansprechen"
+          ]
+        }
+      ],
+      "statement": "Von der Idee bis zum Abschluss.\nIn einem verbundenen Prozess."
+    },
+    {
+      "id": "shop",
+      "type": "product",
+      "chapter": "Growth & Revenue",
+      "kicker": "fitness nation | Shop",
+      "headline": "Mehr Umsatz. Weniger operative Komplexität.",
+      "body": [
+        "Mit fitness nation | Shop verkaufst du Produkte und Zusatzleistungen direkt über App, Website oder Terminals.",
+        "Supplements, Merchandise, Bekleidung, Gutscheine und weitere Produkte lassen sich digital präsentieren, verkaufen und verwalten."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Funktionen",
+          "items": [
+            "Online-Shop",
+            "App-Integration",
+            "Website-Integration",
+            "Terminal-Integration",
+            "Produktmanagement",
+            "Lagermanagement",
+            "verschiedene Zahlungsmethoden",
+            "Treueprogramme",
+            "Dropshipping-Anbindungen",
+            "digitale Aktionsangebote"
+          ]
+        },
+        {
+          "kind": "benefits",
+          "title": "Intelligente Verkaufsunterstützung",
+          "items": [
+            {
+              "t": "AI-Unterstützung",
+              "d": "KI kann bei Produktbeschreibungen, Kampagnentexten, Angebotsdarstellungen und relevanter Kundenkommunikation unterstützen."
+            }
+          ]
+        }
+      ],
+      "statement": "Der nächste Verkauf beginnt nicht an der Theke."
+    },
+    {
+      "id": "terminal",
+      "type": "product",
+      "chapter": "Growth & Revenue",
+      "kicker": "fitness nation | Terminal",
+      "headline": "Selfservice trifft Verkauf.",
+      "body": [
+        "Fitness-Nation-Terminals schaffen digitale Kontaktpunkte direkt im Studio.",
+        "Je nach Ausführung können Mitglieder und Gäste Informationen abrufen, Kurse buchen, Daypasses kaufen, Mitgliedschaften abschließen, Produkte bestellen oder an Marketingaktionen teilnehmen."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Anwendungen",
+          "items": [
+            "Mitglieder-Selfservice",
+            "Probetrainings",
+            "Daypasses",
+            "Mitgliedschaften",
+            "digitale Kurspläne",
+            "Buchungen",
+            "RFID-Zahlungen",
+            "Online-Shop",
+            "Personal Call",
+            "Glücksrad",
+            "Zufriedenheitsabfragen",
+            "Empfehlungen",
+            "Marketinginhalte"
+          ]
+        },
+        {
+          "kind": "benefits",
+          "title": "Terminalvarianten",
+          "items": [
+            {
+              "t": "Selfservice-Terminal",
+              "d": "Für Verträge, Daypasses, Probetrainings und Mitgliederprozesse."
+            },
+            {
+              "t": "55-Zoll-Touchterminal",
+              "d": "Für Marketing, Kommunikation, Verkauf und interaktive Studioinhalte."
+            },
+            {
+              "t": "Counter-Terminal",
+              "d": "Für digitale Beratung, Produktpräsentation und bargeldlose Käufe im Thekenbereich."
+            }
+          ]
+        }
+      ],
+      "statement": "Service, Verkauf und Kommunikation an einem Ort."
+    },
+    {
+      "id": "vending-nutrition",
+      "type": "product",
+      "chapter": "Growth & Revenue",
+      "kicker": "fitness nation | Vending",
+      "eyebrow": "Vending & Nutrition",
+      "headline": "Verkauf rund um die Uhr.",
+      "body": [
+        "Der digitale Verkaufsautomat verbindet moderne Produktpräsentation, bargeldlose Bezahlung und automatisierte Prozesse."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Funktionen",
+          "items": [
+            "55-Zoll-Multitouchdisplay",
+            "verschiedene Zahlungsmethoden",
+            "digitale Produktpräsentation",
+            "automatische Nachbestellungen",
+            "MHD-Überwachung",
+            "Online-Shop-Anbindung",
+            "attraktive Produktpaletten"
+          ]
+        },
+        {
+          "kind": "sub_product",
+          "kicker": "fitness nation | Nutrition",
+          "headline": "Die modulare Boxenlösung.",
+          "body": "Die modulare Boxenlösung erweitert den automatisierten Verkauf auf größere Produkte und Gebinde.",
+          "items": [
+            "Supplements",
+            "Merchandise",
+            "Kleidung",
+            "Zubehör",
+            "Produktpakete"
+          ]
+        }
+      ],
+      "statement": "Dein Studio verkauft weiter.\nAuch wenn die Theke nicht besetzt ist."
+    },
+    {
+      "id": "ch-digital",
+      "type": "chapter",
+      "chapter": "Digital Experience",
+      "headline": "Atmosphäre, Kommunikation und Content als Teil des Systems.",
+      "body": [
+        "Fitness Nation verbindet Entertainment, Musik, Information und Marketing zu einem konsistenten Studioerlebnis."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "In diesem Kapitel",
+          "items": [
+            "fitness nation | TV",
+            "fitness nation | Sound",
+            "fitness nation | Music"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tv",
+      "type": "product",
+      "chapter": "Digital Experience",
+      "kicker": "fitness nation | TV",
+      "headline": "Jeder Screen wird zum digitalen Kontaktpunkt.",
+      "body": [
+        "fitness nation | TV bringt Entertainment, Studioinformationen, Marketing und relevante Inhalte auf die Bildschirme deines Studios.",
+        "Eigene Inhalte können flexibel mit vorgefertigten Formaten kombiniert werden. Kursänderungen, Angebote, Events, Jobangebote oder Shopaktionen lassen sich direkt in das Programm integrieren.",
+        "KI-gestützte Contentprozesse können bei der Erstellung, Strukturierung und Anpassung von Texten und Screen-Inhalten unterstützen."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Funktionen",
+          "items": [
+            "Entertainment",
+            "Infotainment",
+            "Studioinformationen",
+            "digitale Kurspläne",
+            "Marketingaktionen",
+            "Angebotskommunikation",
+            "Nachrichten",
+            "Lifestyle-Inhalte",
+            "Sport-Highlights",
+            "Werbeslots",
+            "eigene Playlists",
+            "Plug-and-Play-Integration"
+          ]
+        },
+        {
+          "kind": "benefits",
+          "title": "Neue Umsatzpotenziale",
+          "items": [
+            {
+              "t": "Werbeplätze vermarkten",
+              "d": "Auf Wunsch können Werbeplätze innerhalb des Studio-TV-Programms vermarktet werden."
+            }
+          ]
+        }
+      ],
+      "statement": "Deine Bildschirme können mehr als unterhalten."
+    },
+    {
+      "id": "sound-music",
+      "type": "product",
+      "chapter": "Digital Experience",
+      "kicker": "fitness nation | Sound",
+      "eyebrow": "Sound & Music",
+      "headline": "Der richtige Sound für jeden Moment.",
+      "body": [
+        "Musikchannels für Trainingsfläche, Tageszeiten und unterschiedliche Stimmungen."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "fitness nation | Sound",
+          "items": [
+            "verschiedene Musikrichtungen",
+            "16 Channels",
+            "umfangreiche Musikauswahl",
+            "tageszeitabhängige Programmgestaltung",
+            "zentrale Steuerung",
+            "für Trainingsflächen optimiert"
+          ]
+        },
+        {
+          "kind": "sub_product",
+          "kicker": "fitness nation | Music",
+          "headline": "Professionelle Mixtapes für unterschiedliche Kursformate und Kurslängen.",
+          "body": "",
+          "items": [
+            "30-, 45- und 60-minütige Mixe",
+            "unterschiedliche Intensitäten",
+            "verschiedene Kurskategorien",
+            "regelmäßig aktualisierte Inhalte",
+            "klar strukturierte Formate"
+          ]
+        },
+        {
+          "kind": "note",
+          "text": "»Intelligente Programmsteuerung« (Auswahl nach Zeit, Bereich, Auslastung, Atmosphäre) ist laut Doc bewusst zukunftsorientiert — NUR verwenden, wenn technisch vorgesehen. → AI-Claims-Liste, vorerst NICHT rendern."
+        }
+      ],
+      "statement": "Motivation hört man."
+    },
+    {
+      "id": "ch-infrastructure",
+      "type": "chapter",
+      "chapter": "Smart Studio Infrastructure",
+      "headline": "Wenn digitale Prozesse physisch werden.",
+      "body": [
+        "Fitness Nation verbindet Plattform und Hardware zu einem durchgängigen Studioerlebnis.",
+        "Zugang, Spinde, Terminals, Körperanalyse und Selfservice werden nicht als isolierte Hardware betrachtet, sondern als physische Erweiterung der digitalen Plattform."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Lösungen",
+          "items": [
+            "fitness nation | Locks",
+            "fitness nation | Gates",
+            "fitness nation | Access",
+            "fitness nation | Terminal",
+            "fitness nation | Bodycheck"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "locks-gates-access",
+      "type": "product",
+      "chapter": "Smart Studio Infrastructure",
+      "kicker": "fitness nation | Locks",
+      "eyebrow": "Locks, Gates & Access",
+      "headline": "Zugang wird zum Servicepunkt.",
+      "blocks": [
+        {
+          "kind": "sub_product",
+          "kicker": "fitness nation | Locks",
+          "headline": "Digitale Spindschlösser für moderne Umkleiden.",
+          "body": "",
+          "items": [
+            "batteriebetrieben",
+            "kein fester Stromanschluss erforderlich",
+            "in bestehende Systeme nachrüstbar",
+            "Zahlencode",
+            "RFID",
+            "Fingerprint",
+            "modernes Design"
+          ]
+        },
+        {
+          "kind": "sub_product",
+          "kicker": "fitness nation | Gates",
+          "headline": "Zugangskontrolle, die Teil des Studiodesigns wird.",
+          "body": "",
+          "items": [
+            "Glas und lackierter Edelstahl",
+            "individuelle Rahmenfarben",
+            "individuelle Beleuchtung",
+            "Logogravur",
+            "RFID-, NFC- und QR-Code-Check-in",
+            "unterschiedliche Durchgangsbreiten",
+            "Doppelschleusen",
+            "Umgebungsabsperrungen",
+            "optionale Kameraintegration"
+          ]
+        },
+        {
+          "kind": "sub_product",
+          "kicker": "fitness nation | Access",
+          "headline": "Intelligente Zugangskontrolle mit integriertem Upselling.",
+          "body": "",
+          "items": [
+            "RFID-, NFC- und QR-Code-Check-in",
+            "Steuerung von Drehkreuzen",
+            "Steuerung von Solarien",
+            "Steuerung von Massage- und Wellnessbereichen",
+            "Einzeltickets",
+            "Upgrades",
+            "Zusatzleistungen",
+            "Marketingfläche",
+            "hochwertiges Edelstahlgehäuse"
+          ]
+        },
+        {
+          "kind": "note",
+          "text": "Sicherheitshinweis (Doc, verbindlich): Aussage zum Verzicht auf zusätzlichen Notausgang NIE pauschal. Nur: »Abhängig von Durchgangsbreite, Planung, Nutzungskonzept und behördlichen Vorgaben kann die Anlage in bestehende Flucht- und Rettungswegkonzepte integriert werden.«"
+        }
+      ],
+      "statement": "Zugang wird zum Servicepunkt."
+    },
+    {
+      "id": "ch-corporate",
+      "type": "chapter",
+      "chapter": "Corporate Health",
+      "headline": "Fitness Nation verbindet Studios mit neuen Gesundheitsmärkten.",
+      "body": [
+        "Unternehmen suchen digitale, messbare und motivierende Gesundheitsangebote. Fitnessstudios verfügen gleichzeitig über lokale Infrastruktur, persönliche Kompetenz und Trainingsmöglichkeiten.",
+        "Fitness Nation verbindet beide Welten."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Lösungen",
+          "items": [
+            "fitness nation | FairTrain",
+            "ReadyHealth",
+            "digitale Gesundheitsprogramme",
+            "lokale Studioanbindung",
+            "Bodycheck",
+            "Challenges",
+            "KI-gestützte Begleitung",
+            "Corporate Health Apps"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fairtrain",
+      "type": "product",
+      "chapter": "Corporate Health",
+      "kicker": "fitness nation | FairTrain",
+      "headline": "Firmenfitness neu gedacht.",
+      "sub": "Digital begleitet. Lokal nutzbar. Fair abgerechnet.",
+      "body": [
+        "FairTrain ermöglicht Unternehmen, ihren Mitarbeitenden ein kombiniertes Fitness- und Gesundheitsangebot bereitzustellen.",
+        "Digitale Routinen, KI-gestützte Betreuung, lokale Trainingsmöglichkeiten, Challenges und Belohnungssysteme greifen dabei ineinander."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "title": "Für Unternehmen",
+          "items": [
+            "digitales Gesundheitsangebot",
+            "eigenes Branding",
+            "Aktivierung der Mitarbeitenden",
+            "Employer Branding",
+            "Challenges und Routinen",
+            "skalierbares Angebot",
+            "besonders für KMU geeignet"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Für Mitarbeitende",
+          "items": [
+            "digitale Gesundheitsbegleitung",
+            "lokale Trainingsmöglichkeiten",
+            "Bodycheck",
+            "Punkte und Levels",
+            "Challenges",
+            "Motivation",
+            "Fortschrittsdarstellung",
+            "Belohnungen"
+          ]
+        },
+        {
+          "kind": "list",
+          "title": "Für Studios",
+          "items": [
+            "Zugang zu Firmenkunden",
+            "zusätzliche Nutzer",
+            "neue Umsatzpotenziale",
+            "digitale Anbindung",
+            "lokale Gesundheitsangebote",
+            "langfristige Partnerschaften"
+          ]
+        },
+        {
+          "kind": "steps",
+          "title": "Beispielhafter Ablauf",
+          "items": [
+            {
+              "n": "1",
+              "d": "Unternehmen aktiviert das Programm"
+            },
+            {
+              "n": "2",
+              "d": "Mitarbeitende erhalten Zugang"
+            },
+            {
+              "n": "3",
+              "d": "Bodycheck und Startanalyse"
+            },
+            {
+              "n": "4",
+              "d": "digitale Challenge beginnt"
+            },
+            {
+              "n": "5",
+              "d": "KI begleitet die Teilnehmenden"
+            },
+            {
+              "n": "6",
+              "d": "Aktivitäten und Routinen werden dokumentiert"
+            },
+            {
+              "n": "7",
+              "d": "Punkte und Levels motivieren"
+            },
+            {
+              "n": "8",
+              "d": "lokale Studioangebote werden genutzt"
+            }
+          ]
+        }
+      ],
+      "statement": "Digitale Gesundheit trifft lokale Bewegung."
+    },
+    {
+      "id": "why",
+      "type": "impact",
+      "eyebrow": "Warum Fitness Nation",
+      "headline": "Mehr als ein Anbieter.\nEin langfristiger Plattformpartner.",
+      "blocks": [
+        {
+          "kind": "benefits",
+          "items": [
+            {
+              "t": "Alles aus einer Hand",
+              "d": "Software, Hardware, App, KI, Content, Marketing und Services."
+            },
+            {
+              "t": "Branchenverständnis",
+              "d": "Entwickelt aus mehr als 20 Jahren Erfahrung im Fitness- und Gesundheitsmarkt."
+            },
+            {
+              "t": "Durchgängige Customer Journey",
+              "d": "Vom ersten Lead bis zur langfristigen Mitgliederbindung."
+            },
+            {
+              "t": "Eine gemeinsame Plattform",
+              "d": "Weniger Insellösungen, weniger doppelte Datenpflege und bessere Abläufe."
+            },
+            {
+              "t": "KI mit konkretem Nutzen",
+              "d": "Nicht als Selbstzweck, sondern zur Entlastung, Personalisierung und Unterstützung."
+            },
+            {
+              "t": "Individuelles Branding",
+              "d": "App, Plattform, Terminals und Kommunikation im eigenen Studiodesign."
+            },
+            {
+              "t": "Modular und skalierbar",
+              "d": "Einzelne Lösungen einsetzen oder das gesamte Ökosystem aufbauen."
+            },
+            {
+              "t": "International ausgerichtet",
+              "d": "Für einzelne Studios, Ketten, Lizenzsysteme und internationale Partner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "platform-model",
+      "type": "modular",
+      "eyebrow": "Das Plattformmodell",
+      "headline": "Starte dort, wo dein größter Bedarf liegt.",
+      "body": [
+        "Fitness Nation muss nicht als Komplettsystem auf einmal eingeführt werden.",
+        "Studios können mit einzelnen Modulen starten und die Plattform schrittweise erweitern."
+      ],
+      "blocks": [
+        {
+          "kind": "groups",
+          "groups": [
+            {
+              "name": "Start",
+              "lead": "Ein konkretes Problem lösen.",
+              "items": [
+                "Mitgliederverwaltung",
+                "App",
+                "Marketing",
+                "Zugang",
+                "Bodycheck",
+                "TV",
+                "Shop"
+              ]
+            },
+            {
+              "name": "Connect",
+              "lead": "Weitere Prozesse verbinden.",
+              "items": [
+                "App und Membership",
+                "Bodycheck und Coach",
+                "Marketing und Vertrieb",
+                "Shop und Terminals",
+                "Access und Zusatzleistungen"
+              ]
+            },
+            {
+              "name": "Scale",
+              "lead": "Das Studio als intelligentes Gesamtsystem betreiben.",
+              "items": [
+                "einheitliche Daten",
+                "zentrale Steuerung",
+                "KI-Unterstützung",
+                "automatisierte Prozesse",
+                "durchgängige Member Journey"
+              ]
+            }
+          ]
+        }
+      ],
+      "statement": "Eine Plattform, die mit deinem Studio wächst."
+    },
+    {
+      "id": "closing",
+      "type": "closing",
+      "kicker": "fitness nation",
+      "headline": "The future of fitness is connected.\nAnd intelligent.",
+      "body": [
+        "Fitness Nation verbindet Software, Hardware, künstliche Intelligenz und digitale Services zu einer Plattform für moderne Fitness- und Gesundheitsanbieter.",
+        "Ob Mitgliederverwaltung, App, KI-Coaching, Vertrieb, Marketing, Selfservice, Entertainment, Zugang oder Corporate Health: Alle Lösungen folgen einem gemeinsamen Ziel."
+      ],
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Studios effizienter betreiben.",
+            "Teams gezielt entlasten.",
+            "Mitglieder besser begleiten.",
+            "Neue Umsatzpotenziale erschließen."
+          ]
+        }
+      ],
+      "cta": {
+        "headline": "Lass uns dein Studio neu denken.",
+        "text": "Vereinbare eine persönliche Plattform-Demo oder einen unverbindlichen Digitalisierungscheck."
+      }
+    }
+  ]
+}

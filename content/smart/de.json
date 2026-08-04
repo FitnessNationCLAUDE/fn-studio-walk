@@ -1,0 +1,420 @@
+{
+  "catalog": "smart",
+  "lang": "de",
+  "meta": {
+    "brand": "fitness nation | smart",
+    "title": "fitness nation | smart",
+    "claim": "How to run a gym smarter. And more autonomously.",
+    "subline": "Ein vernetztes System aus künstlicher Intelligenz, Software und smarter Hardware – für automatisierte Abläufe, digitale Mitgliederbetreuung und einen effizienteren Studiobetrieb.",
+    "cover_claims": ["AI-powered", "Fully connected", "Built for autonomous gym operations"],
+    "positioning": "Autonomous where possible. Personal where it matters.",
+    "contact": {
+      "company": "fitness nation GmbH",
+      "street": "Bergstraße 18",
+      "city": "59394 Nordkirchen",
+      "hotline": "+49 (0) 2596 / 614820",
+      "email": "info@fitness-nation.com"
+    }
+  },
+  "sections": [
+    {
+      "id": "cover",
+      "type": "cover",
+      "kicker": "fitness nation | smart",
+      "headline": "How to run a gym smarter.\nAnd more autonomously.",
+      "sub": "Künstliche Intelligenz, Software und smarte Hardware in einem vernetzten System.",
+      "bottomline": "From access to coaching. From body analysis to sales. One intelligent gym ecosystem.",
+      "blocks": [
+        {"kind": "ai_badge", "items": ["AI-powered", "Fully connected", "Built for autonomous gym operations"]}
+      ],
+      "visual": {
+        "asset": "",
+        "brief": "Keine klassische Produktcollage. Hochwertiges Smart Gym als räumliche Gesamtwelt: Mitglied betritt das Studio über Smart Gates, Smartphone mit AI Coach, Bodycheck-Station, Smart Kiosk, Nutrition Box, digitales Schließfach, Dashboard für den Betreiber, Trainer mit Tablet. Eine dezente leuchtende Linie verbindet alle Elemente und visualisiert den Daten- und Prozessfluss."
+      }
+    },
+    {
+      "id": "vision",
+      "type": "vision",
+      "headline": "Das Fitnessstudio, das mitdenkt.",
+      "body": [
+        "Ein modernes Fitnessstudio muss heute mehr leisten als Trainingsfläche bereitzustellen.",
+        "Mitglieder erwarten digitale Services, schnelle Orientierung, individuelle Unterstützung und einen unkomplizierten Zugang. Gleichzeitig stehen Betreiber vor steigenden Kosten, Personalmangel und immer komplexeren Abläufen.",
+        "fitness nation | smart verbindet künstliche Intelligenz, Software und Hardware zu einem System, das zentrale Prozesse automatisiert und Mitglieder durch ihr gesamtes Trainingserlebnis begleitet.",
+        "Vom Check-in über die Körperanalyse bis zur Trainings- und Ernährungsplanung. Vom digitalen Einkauf bis zum intelligenten Mitglieder-Selfservice."
+      ],
+      "statement": "Nicht weniger Service.\nMehr Service durch intelligente Prozesse."
+    },
+    {
+      "id": "challenge",
+      "type": "challenge",
+      "headline": "Ein Studio. Viele Systeme. Zu viele manuelle Abläufe.",
+      "body": [
+        "In vielen Fitnessstudios arbeiten Zugang, Körperanalyse, Trainingsplanung, Verkauf, Mitgliederkommunikation und Verwaltung noch weitgehend getrennt voneinander."
+      ],
+      "blocks": [
+        {"kind": "pains", "items": [
+          {"t": "Hoher Personalaufwand", "d": "Wiederkehrende Fragen und Standardprozesse binden täglich wertvolle Arbeitszeit."},
+          {"t": "Medienbrüche", "d": "Daten werden mehrfach erfasst oder zwischen unterschiedlichen Systemen übertragen."},
+          {"t": "Uneinheitliche Betreuung", "d": "Nicht jedes Mitglied erhält regelmäßig die Unterstützung, die es benötigt."},
+          {"t": "Ungenutzte Verkaufschancen", "d": "Produkte und Zusatzleistungen werden nur angeboten, wenn Mitarbeitende aktiv verkaufen."},
+          {"t": "Begrenzte Öffnungszeiten", "d": "Viele Services stehen nur zur Verfügung, wenn Personal vor Ort ist."},
+          {"t": "Fehlende Skalierbarkeit", "d": "Mit wachsender Mitgliederzahl steigt häufig auch der operative Aufwand."}
+        ]}
+      ],
+      "closing": "Ein Smart Gym verbindet diese Prozesse zu einem System."
+    },
+    {
+      "id": "system",
+      "type": "system",
+      "headline": "One platform.\nOne member journey.\nOne smart gym.",
+      "blocks": [
+        {"kind": "groups", "center": "fitness nation | smart", "groups": [
+          {"name": "AI Coaching", "items": ["Training", "Nutrition", "Motivation", "Exercise Assistance"]},
+          {"name": "Smart Operations", "items": ["Access", "Gates", "Lockers", "Kiosk", "Digital Screens"]},
+          {"name": "Smart Sales", "items": ["Webshop", "Vending", "Nutrition Box", "Upselling"]},
+          {"name": "Smart Training", "items": ["Bodycheck", "Progress Tracking", "Trainer Software", "Member Plans"]},
+          {"name": "Smart Experience", "items": ["App", "Selfservice", "Personalized Content", "Digital Communication"]}
+        ]}
+      ],
+      "body": [
+        "Alle Komponenten arbeiten nicht isoliert.",
+        "Körperdaten können in die Betreuung einfließen. Trainingspläne stehen Mitgliedern und Trainern digital zur Verfügung. Produkte können über App, Kiosk oder Automaten verkauft werden. Zugang und Zusatzbereiche werden intelligent gesteuert.",
+        "Das Studio wird zu einem verbundenen System."
+      ]
+    },
+    {
+      "id": "journey",
+      "type": "journey",
+      "headline": "Ein Mitglied. Eine vollständig vernetzte Reise.",
+      "blocks": [
+        {"kind": "steps", "items": [
+          {"n": "01", "t": "Enter", "d": "Das Mitglied checkt kontaktlos über QR-Code, NFC oder RFID ein.", "ref": "fitness nation | Gates & Access"},
+          {"n": "02", "t": "Store", "d": "Persönliche Gegenstände werden sicher in einem Smart Locker verstaut.", "ref": "fitness nation | Locks"},
+          {"n": "03", "t": "Measure", "d": "Der Bodycheck erfasst relevante Körperdaten und dokumentiert die Entwicklung.", "ref": "fitness nation | Bodycheck"},
+          {"n": "04", "t": "Understand", "d": "Der AI Coach erklärt Ergebnisse in einer verständlichen und motivierenden Form.", "ref": "fitness nation | Coach"},
+          {"n": "05", "t": "Plan", "d": "Training und Ernährung werden digital auf Ziele und Fortschritt abgestimmt.", "ref": "AI Training & Diet Planning"},
+          {"n": "06", "t": "Train", "d": "Mitglieder erhalten Unterstützung bei Übungsauswahl und Ausführung.", "ref": "AI Training Chat"},
+          {"n": "07", "t": "Support", "d": "Trainer greifen auf relevante Daten und Trainingspläne zu.", "ref": "fitness nation | Trainer"},
+          {"n": "08", "t": "Buy", "d": "Produkte werden über App, Webshop, Kiosk oder Automaten gekauft.", "ref": "Shop, Vending & Nutrition"},
+          {"n": "09", "t": "Progress", "d": "Fortschritte werden dokumentiert und für die weitere Betreuung genutzt.", "ref": ""}
+        ]}
+      ],
+      "closing": "Jeder Schritt ist verbunden.\nJeder Kontaktpunkt wird intelligenter."
+    },
+    {
+      "id": "coach",
+      "type": "product",
+      "chapter": "AI Experience",
+      "kicker": "fitness nation | Coach",
+      "headline": "Persönliche Begleitung.\nDigital skalierbar.",
+      "body": [
+        "Der fitness nation | Coach begleitet Mitglieder im Trainingsalltag – vor, während und nach dem Studiobesuch.",
+        "Er unterstützt bei Zielsetzung, Motivation, Trainingsplanung und Fortschrittskontrolle. Dabei können freigegebene Informationen wie Trainingshistorie, persönliche Ziele und Bodycheck-Ergebnisse berücksichtigt werden.",
+        "So erhalten Mitglieder eine kontinuierliche Betreuung, auch wenn gerade kein persönlicher Trainer verfügbar ist."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Der AI Coach unterstützt bei", "items": ["persönlichen Trainingszielen", "Motivation und Routinen", "Trainingsplanung", "Fortschrittsbegleitung", "Fragen zum Training", "Einordnung von Bodycheck-Ergebnissen", "Vorbereitung auf das nächste Training", "digitalen Challenges"]},
+        {"kind": "benefits", "title": "Für Mitglieder", "items": [
+          {"t": "Jederzeit erreichbar", "d": "Unterstützung ist nicht auf einen Trainertermin begrenzt."},
+          {"t": "Individueller", "d": "Empfehlungen orientieren sich an Zielen und Fortschritten."},
+          {"t": "Verständlicher", "d": "Komplexe Informationen werden einfach erklärt."},
+          {"t": "Motivierender", "d": "Der Coach begleitet auch zwischen den Studiobesuchen."}
+        ]},
+        {"kind": "list", "title": "Für das Studio", "items": ["skalierbare Mitgliederbetreuung", "zusätzliche digitale Coaching-Angebote", "stärkere Mitgliederaktivierung", "weniger wiederkehrende Standardfragen", "höhere Betreuungstiefe"]}
+      ],
+      "statement": "A coach for every member.\nEvery day.",
+      "visual": {"asset": "", "brief": "Smartphone mit AI-Coach-Chat groß + eine reale Studiosituation. Keine zehn kleinen Screenshots."}
+    },
+    {
+      "id": "nutrition-ai",
+      "type": "product",
+      "chapter": "AI Experience",
+      "kicker": "fitness nation | Nutrition AI",
+      "eyebrow": "AI Diet Planner & Recording — Intelligent Nutrition",
+      "headline": "Ernährung planen.\nFortschritte dokumentieren.\nZiele konsequenter verfolgen.",
+      "body": [
+        "Die integrierte Ernährungsunterstützung hilft Mitgliedern, ihre Ernährung strukturiert zu planen und im Alltag einfacher zu dokumentieren.",
+        "Der AI Diet Planner kann individuelle Ziele, Ernährungspräferenzen und den Trainingskontext berücksichtigen. Mahlzeiten lassen sich digital erfassen und in einen übersichtlichen Tagesverlauf einordnen."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Funktionen", "items": ["individuelle Ernährungsplanung", "Tages- und Wochenpläne", "Mahlzeitenerfassung", "Kalorien- und Makroübersicht", "Ernährungsziele", "Rezeptvorschläge", "Einkaufsunterstützung", "Fortschrittsdokumentation", "Verbindung mit Trainingszielen", "Integration in digitale Challenges"]},
+        {"kind": "list", "title": "Intelligente Unterstützung — die KI unterstützt unter anderem bei Fragen wie", "items": ["Was kann ich heute passend zu meinem Ziel essen?", "Wie kann ich meine Mahlzeit verbessern?", "Welche Lebensmittel passen zu meinem Tagesziel?", "Wie verteile ich Proteine über den Tag?", "Welche Mahlzeit eignet sich vor oder nach dem Training?"]},
+        {"kind": "note", "text": "Wichtige Positionierung: Nicht als medizinische Ernährungsberatung darstellen, sondern als digitale Unterstützung für alltagsnahe Fitness- und Ernährungsziele."}
+      ],
+      "statement": "Better choices.\nMade easier every day."
+    },
+    {
+      "id": "training-ai",
+      "type": "product",
+      "chapter": "AI Experience",
+      "kicker": "fitness nation | Training AI",
+      "eyebrow": "AI Training Chat",
+      "headline": "Ask. Learn. Train.",
+      "sub": "Dein digitaler Trainingsassistent für jede Übung.",
+      "body": [
+        "Mitglieder können direkt in der App fragen, welche Übung zu ihrem Ziel passt, wie eine Bewegung ausgeführt wird oder welche Alternative bei fehlender Geräteverfügbarkeit sinnvoll ist.",
+        "Der AI Training Chat bietet schnelle Orientierung auf der Trainingsfläche und verbindet Übungswissen, Trainingspläne und individuelle Ziele."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Typische Fragen", "items": ["Welche Übung trainiert meine Brust besonders effektiv?", "Wie stelle ich dieses Gerät richtig ein?", "Welche Alternative gibt es zu Kniebeugen?", "Welche Übungen passen zu meinem heutigen Trainingsplan?", "Wie führe ich die Bewegung kontrolliert aus?", "Welche Muskeln werden bei dieser Übung beansprucht?", "Wie lange sollte ich zwischen den Sätzen pausieren?"]},
+        {"kind": "list", "title": "Unterstützte Inhalte", "items": ["Übungserklärungen", "Gerätehinweise", "Bewegungsabläufe", "beanspruchte Muskelgruppen", "Trainingsalternativen", "Satz- und Wiederholungsempfehlungen", "Pausenzeiten", "Plananpassungen", "Verbindung zur Übungsbibliothek"]},
+        {"kind": "note", "text": "Sicherheitsgrundsatz: Bei Schmerzen, Verletzungen oder gesundheitlichen Beschwerden verweist das System auf qualifiziertes Fachpersonal und ersetzt keine medizinische Beurteilung. → Als sichtbare Fußnote auf der Sektion rendern."}
+      ],
+      "statement": "Every machine becomes easier to understand."
+    },
+    {
+      "id": "bodycheck",
+      "type": "product",
+      "chapter": "Smart Training",
+      "kicker": "fitness nation | Bodycheck",
+      "eyebrow": "Body Analysis & AI Results",
+      "headline": "Messen ist der Anfang.\nVerstehen macht den Unterschied.",
+      "body": [
+        "Der fitness nation | Bodycheck erfasst relevante Körperwerte direkt im Studio. Die Ergebnisse werden digital in das Mitgliederprofil übertragen und in übersichtlichen Verläufen dargestellt.",
+        "In Verbindung mit dem AI Coach werden Messwerte nicht nur angezeigt, sondern verständlich eingeordnet und in die weitere Trainingsbegleitung integriert."
+      ],
+      "blocks": [
+        {"kind": "steps", "title": "Der Prozess", "items": [
+          {"n": "01", "t": "Measure", "d": "Das Mitglied führt selbstständig eine Körperanalyse durch."},
+          {"n": "02", "t": "Transfer", "d": "Die Daten werden sicher in das persönliche Profil übertragen."},
+          {"n": "03", "t": "Explain", "d": "Der AI Coach erläutert die Ergebnisse verständlich."},
+          {"n": "04", "t": "Plan", "d": "Training und Routinen werden passend zum Ziel weiterentwickelt."},
+          {"n": "05", "t": "Repeat", "d": "Folgemessungen machen Fortschritte sichtbar."}
+        ]},
+        {"kind": "list", "title": "Funktionen", "items": ["BIA-Körperanalyse", "Selfservice-Nutzung", "QR-Code-gestützter Prozess", "digitale Datenübertragung", "Verlaufsdarstellung", "Zielvergleich", "Integration in AI Coaching", "Verbindung mit Trainingsplanung", "Trainerzugriff nach Freigabe", "EGYM-Schnittstelle"]}
+      ],
+      "statement": "From body data to better decisions.",
+      "visual": {"asset": "", "brief": "Großes Bodycheck-System + Smartphone mit Ergebnisdarstellung + dezente Verbindung zum AI Coach. Nicht aus zehn kleinen Screens und Funktionsicons."}
+    },
+    {
+      "id": "trainer",
+      "type": "product",
+      "chapter": "Smart Training",
+      "kicker": "fitness nation | Trainer",
+      "eyebrow": "Trainer Software",
+      "headline": "Smarte Technologie für persönliche Betreuung.",
+      "body": [
+        "fitness nation | Trainer unterstützt Coaches und Personal Trainer bei der strukturierten Betreuung ihrer Mitglieder.",
+        "Trainer erhalten relevante Informationen, Trainingspläne, Termine und Fortschritte in einer zentralen digitalen Oberfläche. Dadurch können sie persönliche Gespräche besser vorbereiten und die Trainingsplanung effizienter gestalten."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Funktionen", "items": ["digitale Mitgliederprofile", "Trainingsplanerstellung", "Übungsbibliothek", "Terminplanung", "Trainerkalender", "Kursverwaltung", "Fortschrittsdokumentation", "Bodycheck-Daten", "digitale Trainerpads", "Verbindung zur Mitglieder-App", "Trainer Call", "Gesprächsnotizen"]},
+        {"kind": "list", "title": "AI-Unterstützung für Trainer", "items": ["strukturierte Zusammenfassung relevanter Daten", "Vorbereitung auf Trainertermine", "Vorschläge für Trainingsplaninhalte", "Dokumentationsunterstützung", "Zusammenfassung bisheriger Fortschritte", "Erstellung verständlicher Mitgliederinformationen"]},
+        {"kind": "benefits", "title": "Nutzen", "items": [
+          {"t": "Mehr Überblick", "d": "Alle wichtigen Informationen stehen strukturiert zur Verfügung."},
+          {"t": "Mehr Effizienz", "d": "Weniger Zeit für Suche und Dokumentation."},
+          {"t": "Mehr Individualität", "d": "Trainingspläne können gezielter angepasst werden."},
+          {"t": "Mehr Zeit am Mitglied", "d": "Technologie übernimmt Organisation – der Trainer die persönliche Beziehung."}
+        ]}
+      ],
+      "statement": "AI supports the coach.\nThe coach inspires the member."
+    },
+    {
+      "id": "kiosk",
+      "type": "product",
+      "chapter": "Smart Operations",
+      "kicker": "fitness nation | Kiosk",
+      "eyebrow": "Smart Kiosk",
+      "headline": "Selfservice, Information und Verkauf an einem Ort.",
+      "body": [
+        "Der Smart Kiosk bringt zentrale Mitglieder- und Verkaufsprozesse direkt auf die Studiofläche.",
+        "Mitglieder und Gäste können Informationen abrufen, Produkte kaufen, Kurse buchen oder ausgewählte Selfservice-Vorgänge eigenständig erledigen.",
+        "Der Kiosk bleibt auch dann verfügbar, wenn die Rezeption nicht besetzt ist."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Einsatzmöglichkeiten", "items": ["Daypasses", "Probetrainings", "Mitgliedschaften", "Kursbuchungen", "Terminbuchungen", "Mitglieder-Selfservice", "Produktverkauf", "Zusatzleistungen", "Upselling", "Studioinformationen", "Feedback", "Empfehlungsaktionen"]},
+        {"kind": "benefits", "title": "Vorteile", "items": [
+          {"t": "24/7 verfügbar", "d": "Digitale Services bleiben unabhängig von der Thekenbesetzung nutzbar."},
+          {"t": "Weniger Wartezeit", "d": "Standardprozesse können selbstständig erledigt werden."},
+          {"t": "Mehr Verkaufsflächen", "d": "Angebote und Produkte werden dauerhaft sichtbar."},
+          {"t": "Im Studiodesign", "d": "Oberfläche und Inhalte können an die Marke angepasst werden."}
+        ]}
+      ],
+      "statement": "Your digital front desk.\nAlways ready."
+    },
+    {
+      "id": "screens",
+      "type": "product",
+      "chapter": "Smart Operations",
+      "kicker": "fitness nation | Screens",
+      "eyebrow": "Digital Ad Screens",
+      "headline": "Jeder Screen wird zum intelligenten Kontaktpunkt.",
+      "body": [
+        "Digitale Screens informieren, aktivieren und verkaufen.",
+        "Kurspläne, Angebote, Studioinformationen, Produktaktionen und relevante Inhalte können zentral ausgespielt und flexibel aktualisiert werden."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Mögliche Inhalte", "items": ["aktuelle Angebote", "Kurspläne", "Events", "Trainerinformationen", "Studio-News", "Challenges", "Shop-Produkte", "Nutrition-Angebote", "Personal- und Recruitinganzeigen", "lokale Werbepartner", "Sicherheits- und Servicehinweise"]},
+        {"kind": "list", "title": "AI-powered Content — künstliche Intelligenz kann bei der Entwicklung und Anpassung von Inhalten unterstützen", "items": ["Headlines", "Angebotscopy", "Aktionsvarianten", "Screen-Texte", "saisonale Kampagnen", "zielgruppengerechte Ansprache", "Übersetzungen", "Contentpläne"]},
+        {"kind": "benefits", "title": "Zusätzliche Umsatzpotenziale", "items": [
+          {"t": "Werbeflächen", "d": "Ausgewählte Screen-Flächen können für lokale Partnerschaften oder Werbeformate genutzt werden."}
+        ]}
+      ],
+      "statement": "Communicate smarter.\nSell more visibly."
+    },
+    {
+      "id": "shop",
+      "type": "product",
+      "chapter": "Smart Revenue",
+      "kicker": "fitness nation | Shop",
+      "eyebrow": "Webshop",
+      "headline": "Dein Studio verkauft auch außerhalb der Öffnungszeiten.",
+      "body": [
+        "Der integrierte Webshop ermöglicht den digitalen Verkauf von Produkten und Zusatzleistungen über App, Website und Smart Kiosk.",
+        "Mitglieder können bequem Produkte auswählen, bezahlen und je nach Konzept im Studio abholen oder direkt liefern lassen."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Verkaufsmöglichkeiten", "items": ["Supplements", "Getränke", "Snacks", "Merchandise", "Bekleidung", "Zubehör", "Gutscheine", "Trainingspakete", "Zusatzleistungen", "Challenges", "Bodychecks", "Personal-Training-Pakete"]},
+        {"kind": "list", "title": "Funktionen", "items": ["Produktverwaltung", "Lagermanagement", "verschiedene Zahlungsmethoden", "App-Integration", "Website-Integration", "Kiosk-Integration", "Aktionspreise", "Gutscheine", "Treueprogramme", "Dropshipping-Anbindungen"]},
+        {"kind": "list", "title": "AI-Unterstützung", "items": ["Produktbeschreibungen", "Angebotscopy", "Cross-Selling-Texte", "Kampagnenideen", "Aktionskommunikation", "strukturierte Produktinformationen"]}
+      ],
+      "statement": "Your gym.\nYour store.\nAlways open."
+    },
+    {
+      "id": "vending",
+      "type": "product",
+      "chapter": "Smart Revenue",
+      "kicker": "fitness nation | Vending",
+      "eyebrow": "Vending & Nutrition Box",
+      "headline": "Automatisierter Verkauf rund um die Uhr.",
+      "body": [
+        "Der fitness nation | Vending Automat verbindet moderne Produktpräsentation, digitale Bezahlung und automatisierte Verkaufsprozesse.",
+        "Mitglieder können Supplements, Getränke, Snacks und weitere Produkte direkt im Studio kaufen – ohne Unterstützung durch das Personal."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Funktionen", "items": ["großes Multitouchdisplay", "digitale Produktdarstellung", "bargeldlose Zahlungsmöglichkeiten", "Produkt- und Bestandsübersicht", "MHD-Überwachung", "automatische Nachbestellung", "Webshop-Anbindung", "Marketingflächen", "Aktionsangebote"]},
+        {"kind": "sub_product", "kicker": "fitness nation | Nutrition", "headline": "Mehr Platz für größere Produkte.", "body": "Die Nutrition Box erweitert den automatisierten Verkauf um größere Gebinde und flexibel belegbare Verkaufsfächer.", "items": ["Proteinpulver", "Supplement-Dosen", "Produktpakete", "Bekleidung", "Merchandise", "Zubehör", "Handtücher", "Getränke-Sets"]},
+        {"kind": "list", "title": "Gemeinsamer Nutzen", "items": ["Verkauf ohne dauerhaft besetzte Theke", "24/7-Verfügbarkeit", "geringerer Personalaufwand", "zusätzliche Umsatzpotenziale", "moderne Produktpräsentation", "zentrale digitale Steuerung"]}
+      ],
+      "statement": "Your retail business keeps running."
+    },
+    {
+      "id": "locks",
+      "type": "product",
+      "chapter": "Smart Operations",
+      "kicker": "fitness nation | Locks",
+      "eyebrow": "Smart Lockers",
+      "headline": "Sicher. Komfortabel. Kontaktlos.",
+      "body": [
+        "Digitale Spindschlösser schaffen einen modernen und unkomplizierten Umkleideprozess.",
+        "Mitglieder können Schränke per RFID, Zahlencode oder – je nach Modell – Fingerprint verschließen. Die Systeme lassen sich in viele bestehende Schrankanlagen integrieren."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Funktionen", "items": ["RFID", "Zahlencode", "Fingerprint je nach Ausführung", "batteriebetriebener Einsatz", "kein permanenter Stromanschluss erforderlich", "Nachrüstung in bestehenden Schränken", "modernes Design", "unterschiedliche Betriebsmodi"]},
+        {"kind": "benefits", "title": "Vorteile", "items": [
+          {"t": "Einfach für Mitglieder", "d": "Kein separates Vorhängeschloss oder Schlüssel notwendig."},
+          {"t": "Weniger Aufwand für Teams", "d": "Standardprozesse werden digitalisiert."},
+          {"t": "Flexibel einsetzbar", "d": "Geeignet für Neuplanungen und viele bestehende Schranksysteme."},
+          {"t": "Teil des Smart-Gym-Erlebnisses", "d": "Auch der Umkleidebereich folgt der digitalen Customer Journey."}
+        ]}
+      ],
+      "statement": "Smart access should not stop at the locker room."
+    },
+    {
+      "id": "gates-access",
+      "type": "product",
+      "chapter": "Smart Operations",
+      "kicker": "fitness nation | Gates",
+      "eyebrow": "Smart Gates & Access",
+      "headline": "Der erste Kontakt mit deinem Smart Gym.",
+      "body": [
+        "Die hochwertigen Sensorschleusen verbinden kontrollierten Zugang mit modernem Studiodesign.",
+        "Rahmenfarbe, Beleuchtung und Glasflächen können individuell an das Erscheinungsbild des Studios angepasst werden."
+      ],
+      "blocks": [
+        {"kind": "list", "title": "Funktionen", "items": ["RFID-Check-in", "NFC-Check-in", "QR-Code-Check-in", "individuelle Rahmenfarben", "individuelle Beleuchtung", "Logogravur", "unterschiedliche Durchgangsbreiten", "Doppelschleusen", "passende Umgebungsabsperrungen", "optionale Kameraintegration"]},
+        {"kind": "sub_product", "kicker": "fitness nation | Access", "headline": "Mehr als Zugangskontrolle.", "body": "Das digitale Access Terminal steuert nicht nur den Check-in, sondern kann auch Zugänge zu Zusatzbereichen und kostenpflichtigen Leistungen verwalten.", "items": ["Drehkreuze", "Sensorschleusen", "Solarien", "Massagebereiche", "Wellnessangebote", "Getränkesysteme", "Premiumzonen", "weitere Zusatzbereiche"]},
+        {"kind": "list", "title": "Direkte Verkaufsfunktionen", "items": ["Einzeltickets", "Upgrades", "Zusatzleistungen", "Tageszugänge", "Marketingangebote"]},
+        {"kind": "note", "text": "Sicherheitshinweis (Doc): Aussage zum Verzicht auf zusätzlichen Notausgang NIE pauschal. Nur: Abhängig von Durchgangsbreite, Planung, Nutzungskonzept und behördlichen Vorgaben kann die Anlage in bestehende Flucht- und Rettungswegkonzepte integriert werden."}
+      ],
+      "statement": "Every access point can become a service point."
+    },
+    {
+      "id": "day",
+      "type": "day",
+      "headline": "Ein Tag im intelligenten Fitnessstudio.",
+      "eyebrow": "How a smart gym runs",
+      "blocks": [
+        {"kind": "timeline", "items": [
+          {"time": "06:00", "d": "Das Mitglied betritt das Studio kontaktlos über die Smart Gates."},
+          {"time": "06:02", "d": "Ein Smart Locker wird per RFID verschlossen."},
+          {"time": "06:05", "d": "Die App zeigt den persönlichen Trainingsplan des Tages."},
+          {"time": "06:10", "d": "Der AI Training Chat erklärt eine Übung und schlägt eine Alternative vor."},
+          {"time": "07:00", "d": "Das Mitglied kauft über den Vending Automaten einen Proteinshake."},
+          {"time": "12:00", "d": "Der AI Coach erinnert an das Ernährungsziel und unterstützt bei der Mahlzeitenplanung."},
+          {"time": "17:00", "d": "Ein Trainer sieht die Fortschritte und bereitet den nächsten Betreuungstermin vor."},
+          {"time": "18:30", "d": "Ein neues Mitglied schließt seine Mitgliedschaft am Smart Kiosk ab."},
+          {"time": "20:00", "d": "Der Bodycheck dokumentiert den Fortschritt und aktualisiert die Betreuung."},
+          {"time": "23:00", "d": "Webshop, Zugang und digitale Services bleiben weiterhin verfügbar."}
+        ]}
+      ],
+      "closing": "Smart operations never sleep."
+    },
+    {
+      "id": "impact",
+      "type": "impact",
+      "headline": "More autonomy.\nMore intelligence.\nMore time for people.",
+      "eyebrow": "Was das System für das Studio verändert",
+      "blocks": [
+        {"kind": "benefits", "items": [
+          {"t": "Weniger manuelle Standardprozesse", "d": "Check-in, Buchungen, Verkäufe und Selfservice können digital abgebildet werden."},
+          {"t": "Mehr Betreuung ohne linearen Personalaufbau", "d": "AI Coach und digitale Trainingsunterstützung ergänzen die persönliche Betreuung."},
+          {"t": "Zusätzliche Umsatzpotenziale", "d": "Webshop, Kiosk, Vending und Nutrition Box schaffen neue Verkaufspunkte."},
+          {"t": "Bessere Datenverbindung", "d": "Bodycheck, Training, App und Trainer Software arbeiten enger zusammen."},
+          {"t": "Längere Serviceverfügbarkeit", "d": "Digitale Angebote stehen auch außerhalb klassischer Servicezeiten bereit."},
+          {"t": "Konsistentes Mitgliedererlebnis", "d": "Vom Zugang bis zum Coaching folgt das Studio einer einheitlichen digitalen Journey."},
+          {"t": "Skalierbare Prozesse", "d": "Die Lösung eignet sich für einzelne Studios, Studioketten und internationale Konzepte."}
+        ]}
+      ]
+    },
+    {
+      "id": "package",
+      "type": "package",
+      "kicker": "fitness nation | smart",
+      "headline": "Alles, was ein intelligentes Studio braucht.",
+      "eyebrow": "Das Smart-Gym-Paket",
+      "blocks": [
+        {"kind": "groups", "groups": [
+          {"name": "AI Experience", "items": ["AI Coach", "AI Diet Planner", "Nutrition Recording", "AI Training Chat", "Exercise Support"]},
+          {"name": "Smart Training", "items": ["Bodycheck", "AI Results", "Trainer Software", "Digital Training Plans", "Progress Tracking"]},
+          {"name": "Smart Operations", "items": ["Smart Kiosk", "Digital Ad Screens", "Smart Lockers", "Smart Gates", "Access Control"]},
+          {"name": "Smart Revenue", "items": ["Webshop", "Vending", "Nutrition Box", "Digital Upselling", "Add-on Sales"]},
+          {"name": "Connected Platform", "items": ["Member App", "central data flows", "studio branding", "modular architecture", "scalable deployment"]}
+        ]}
+      ],
+      "statement": "One system.\nEvery essential touchpoint."
+    },
+    {
+      "id": "modular",
+      "type": "modular",
+      "headline": "Start smart.\nScale step by step.",
+      "eyebrow": "Modularer Einstieg",
+      "body": [
+        "fitness nation | smart kann als vollständiges Smart-Gym-System oder modular eingeführt werden."
+      ],
+      "blocks": [
+        {"kind": "groups", "groups": [
+          {"name": "Start", "lead": "Mit dem Bereich beginnen, der aktuell den größten Nutzen schafft.", "items": ["AI Coaching", "Bodycheck", "Smart Access", "Kiosk", "Webshop", "Vending"]},
+          {"name": "Connect", "lead": "Weitere Module verbinden und den digitalen Prozess erweitern.", "items": ["Bodycheck mit AI Coach", "Webshop mit Kiosk und Vending", "Gates mit Mitglieder-App", "Trainer Software mit digitalen Trainingsplänen", "Screens mit Marketingkampagnen"]},
+          {"name": "Scale", "lead": "Das Studio als verbundenes Gesamtsystem betreiben.", "items": ["einheitliche Member Journey", "zentrale Daten", "automatisierte Prozesse", "intelligente Betreuung", "digitale Umsatzkanäle", "international skalierbare Struktur"]}
+        ]}
+      ],
+      "statement": "Build the smart gym around your business."
+    },
+    {
+      "id": "closing",
+      "type": "closing",
+      "kicker": "fitness nation | smart",
+      "headline": "The future of gym operations is connected.\nAnd intelligent.",
+      "body": [
+        "fitness nation | smart verbindet künstliche Intelligenz, Software und smarte Hardware zu einem intelligenten Betriebssystem für moderne Fitnessstudios.",
+        "Vom Zugang über Training und Ernährung bis zu Körperanalyse, Selfservice und Verkauf entsteht ein durchgängiges System, das Mitglieder begleitet und Teams gezielt entlastet."
+      ],
+      "statement": "Autonomous where possible.\nPersonal where it matters.",
+      "cta": {
+        "headline": "Build your smart gym.",
+        "text": "Vereinbare eine persönliche Smart-Gym-Demo oder lass uns gemeinsam dein individuelles System konfigurieren."
+      }
+    }
+  ]
+}
