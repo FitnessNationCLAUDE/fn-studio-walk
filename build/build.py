@@ -83,18 +83,52 @@ def price_rows(cat_name, sid, lang):
                              .format(_eur(sk["anzahlung_eur"]), sk["anzahl_raten"], _eur(sk["monatliche_rate_eur"])))
     return rows, notes
 
+# Schild-Regeln: wenn die Bühne EIN konkretes Produkt einer Misch-Sektion zeigt,
+# filtert das Schild auf dieses Produkt und zeigt den KLEINSTEN Preis mit „ab".
+TAG_RULE = {
+    ("gesamt", "locks-gates-access"): {"label": "Gate", "match": "gate"},
+    ("smart", "gates-access"): {"label": "Gate", "match": "gate"},
+    ("smart", "locks"): {"match": ""},  # kleinster Locks-Preis mit „ab"
+}
+
+def _hw_amounts(cat_name, sid, match):
+    """Numerische UVPs der hw-Referenzen einer Sektion, optional namens-gefiltert."""
+    pmap, hw, _sw, _m = PRICING
+    out = []
+    for ref in pmap.get(cat_name, {}).get(sid) or []:
+        if not ref.startswith("hw:"): continue
+        pr = hw.get(ref.split(":", 1)[1])
+        if not pr: continue
+        if match and match not in pr["display_name"].lower(): continue
+        amt = ((pr.get("pricing") or {}).get("rrp_eu_net") or {}).get("amount")
+        if amt is not None: out.append(amt)
+    return out
+
 def tag_price(cat_name, sid, lang):
+    rule = TAG_RULE.get((cat_name, sid))
+    if rule is not None:
+        amts = _hw_amounts(cat_name, sid, rule.get("match", ""))
+        if amts:
+            ab = ("ab " if lang == "de" else "from ") if len(set(amts)) > 1 else ""
+            return ab + _eur(min(amts))
     rows, _ = price_rows(cat_name, sid, lang)
     if not rows: return None
     import re
     return re.sub(r"\s*<small>.*?</small>", "", rows[0][2])
 
 def tag_unit(cat_name, sid, lang):
+    rule = TAG_RULE.get((cat_name, sid))
+    if rule is not None and _hw_amounts(cat_name, sid, rule.get("match", "")):
+        return "UVP" if lang == "de" else "RRP"
     rows, _ = price_rows(cat_name, sid, lang)
     if not rows: return ""
     import re
     m = re.search(r"<small>(.*?)</small>", rows[0][2])
     return m.group(1).strip() if m else ""
+
+def tag_label(cat_name, sid, default):
+    rule = TAG_RULE.get((cat_name, sid)) or {}
+    return rule.get("label") or default
 
 # ---------------------------------------------------------------- Zonen-Karte
 # Jede Zone: (id, wandwort {de,en}, produkte in Szenen-Reihenfolge, primärer Clip)
@@ -150,7 +184,7 @@ def price_tag(cat_name, s, lang, cls=""):
     sid = s["id"]
     p = tag_price(cat_name, sid, lang)
     unit = tag_unit(cat_name, sid, lang)
-    name = shortname(s.get("kicker") or sid)
+    name = tag_label(cat_name, sid, shortname(s.get("kicker") or sid))
     if p:
         val = f'<b>{p}</b><small>{esc(unit)}</small>' if unit else f'<b>{p}</b>'
     else:
