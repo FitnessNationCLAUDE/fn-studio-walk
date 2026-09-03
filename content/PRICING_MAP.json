@@ -1,28 +1,100 @@
 {
-  "_doc": "Sektion → Preisreferenzen. sw:<item_number> = FN_MASTERDATA.articles · hw:<article_number> = FN_HARDWARE_MASTERDATA.products (rrp_eu_net). music = Lizenz-Staffel. Renderer liest die Brain-Dateien LIVE — Preisänderung dort = Katalog aktuell nach Rebuild. Offene Zuordnungen (kein Artikel im Brain): manager, dashboard, fairtrain → bewusst ohne Preisblock.",
+  "_doc": "Sektion → Preisreferenzen. sw:<item_number> = FN_MASTERDATA.articles (v3: FN-SW/FN-RS/FN-SG) · hw:<article_number> = FN_HARDWARE_MASTERDATA.products (v3: FN-HW-xxxx; Alt-Nr. DE-xxxxx in legacy_article_number). Renderer liest die Brain-Dateien LIVE — Preisänderung dort = Katalog aktuell nach Rebuild. Umgestellt 2026-09-03 (Preislisten 27.08.2026). Offene Zuordnungen (kein Artikel im Brain): manager, dashboard, fairtrain → bewusst ohne Preisblock.",
   "gesamt": {
-    "membership": ["sw:FN-MG-2200", "sw:FN-MG-2000"],
-    "app": ["sw:FN-GR-3000"],
-    "coach": ["sw:FN-RV-4000"],
-    "trainer": ["sw:FN-GR-3100"],
-    "marketing": ["sw:FN-GR-3200"],
-    "shop": ["sw:FN-RV-4100"],
-    "tv": ["sw:FN-RV-4200", "hw:DE-20600", "hw:DE-20315", "hw:DE-20316"],
-    "sound-music": ["sw:FN-SP-5100", "music"],
-    "bodycheck": ["hw:DE-20100"],
-    "terminal": ["hw:DE-20300", "hw:DE-20310", "hw:DE-20320"],
-    "vending-nutrition": ["hw:DE-20250", "hw:DE-20251", "hw:DE-20256", "hw:DE-20255", "hw:DE-20257", "sw:FN-SP-5200"],
-    "locks-gates-access": ["hw:DE-20500", "hw:DE-20501", "hw:DE-20410", "hw:DE-20420", "hw:DE-20430", "hw:DE-20330", "hw:DE-20335", "hw:DE-20333"]
+    "membership": [
+      "sw:FN-SW-2200",
+      "sw:FN-SW-2000"
+    ],
+    "app": [
+      "sw:FN-SW-3000"
+    ],
+    "coach": [
+      "sw:FN-SW-4000"
+    ],
+    "trainer": [
+      "sw:FN-SW-3100"
+    ],
+    "marketing": [
+      "sw:FN-SW-3200"
+    ],
+    "shop": [
+      "sw:FN-SW-4100"
+    ],
+    "tv": [
+      "sw:FN-SW-4200",
+      "hw:FN-HW-6000",
+      "hw:FN-HW-6020",
+      "hw:FN-HW-6030"
+    ],
+    "sound-music": [
+      "sw:FN-SW-5100"
+    ],
+    "bodycheck": [
+      "hw:FN-HW-1000"
+    ],
+    "terminal": [
+      "hw:FN-HW-3000",
+      "hw:FN-HW-3010",
+      "hw:FN-HW-4120"
+    ],
+    "vending-nutrition": [
+      "hw:FN-HW-2000",
+      "hw:FN-HW-2010",
+      "hw:FN-HW-2040",
+      "hw:FN-HW-2030",
+      "hw:FN-HW-2050",
+      "sw:FN-SW-5200"
+    ],
+    "locks-gates-access": [
+      "hw:FN-HW-5000",
+      "hw:FN-HW-5010",
+      "hw:FN-HW-4010",
+      "hw:FN-HW-4000",
+      "hw:FN-HW-4020",
+      "hw:FN-HW-4100",
+      "hw:FN-HW-4130",
+      "hw:FN-HW-4140"
+    ]
   },
   "smart": {
-    "coach": ["sw:FN-RV-4000"],
-    "trainer": ["sw:FN-GR-3100"],
-    "bodycheck": ["hw:DE-20100"],
-    "kiosk": ["hw:DE-20310", "hw:DE-20300"],
-    "screens": ["hw:DE-20315", "hw:DE-20316", "hw:DE-20600"],
-    "shop": ["sw:FN-RV-4100"],
-    "vending": ["hw:DE-20250", "hw:DE-20251", "hw:DE-20256", "hw:DE-20255", "sw:FN-SP-5200"],
-    "locks": ["hw:DE-20500", "hw:DE-20501"],
-    "gates-access": ["hw:DE-20410", "hw:DE-20420", "hw:DE-20430", "hw:DE-20330", "hw:DE-20335"]
+    "coach": [
+      "sw:FN-SW-4000"
+    ],
+    "trainer": [
+      "sw:FN-SW-3100"
+    ],
+    "bodycheck": [
+      "hw:FN-HW-1000"
+    ],
+    "kiosk": [
+      "hw:FN-HW-3010",
+      "hw:FN-HW-3000"
+    ],
+    "screens": [
+      "hw:FN-HW-6020",
+      "hw:FN-HW-6030",
+      "hw:FN-HW-6000"
+    ],
+    "shop": [
+      "sw:FN-SW-4100"
+    ],
+    "vending": [
+      "hw:FN-HW-2000",
+      "hw:FN-HW-2010",
+      "hw:FN-HW-2040",
+      "hw:FN-HW-2030",
+      "sw:FN-SW-5200"
+    ],
+    "locks": [
+      "hw:FN-HW-5000",
+      "hw:FN-HW-5010"
+    ],
+    "gates-access": [
+      "hw:FN-HW-4010",
+      "hw:FN-HW-4000",
+      "hw:FN-HW-4020",
+      "hw:FN-HW-4100",
+      "hw:FN-HW-4130"
+    ]
   }
 }
