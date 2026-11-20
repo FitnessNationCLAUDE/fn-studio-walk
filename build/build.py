@@ -71,10 +71,31 @@ def price_rows(cat_name, sid, lang):
             pr = hw.get(num)
             if not pr: continue
             amt = ((pr.get("pricing") or {}).get("rrp_eu_net") or {}).get("amount")
+            if amt is not None and (pr.get("pricing") or {}).get("included_with"):   # K-0032: z. B. Bezahlterminal, bei Smart Vending inklusive
+                rows.append((pr["display_name"], num, ("inklusive <small>bei Smart Vending · Wert %s UVP</small>" if lang == "de" else "included <small>with Smart Vending · value %s RRP</small>") % _eur(amt)))
+                continue
             if amt is None:
                 rows.append((pr["display_name"], num, "auf Anfrage" if lang == "de" else "on request"))
             else:
                 rows.append((pr["display_name"], num, f'{_eur(amt)} <small>{"UVP" if lang=="de" else "RRP"}</small>'))
+            sb = (pr.get("pricing") or {}).get("subscription")   # K-0032 / Owner 14.10.2026 (N47): Subscription, kein Ratenkauf
+            if sb:
+                _de = lang == "de"
+                _m = "Monat" if _de else "month"
+                _txt = ("{} auch als Subscription über {} Monate: {} Anzahlung + {} × {} / {}" if _de else
+                        "{} also as a {}-month subscription: {} down payment + {} × {} / {}").format(
+                    pr.get("short_name") or pr["display_name"], sb["laufzeit_monate"], _eur(sb["anzahlung_eur"]), sb["laufzeit_monate"], _eur(sb["subscription_gebuehr_monat_eur"]), _m)
+                for _d in sb.get("dazu_monatlich") or []:
+                    _txt += " + {} {} / {}".format(_d["name"], _eur(_d["betrag_eur"]), _m)
+                _txt += "."
+                if sb.get("dazu_monatlich"):
+                    _txt += (" Danach nur {} {} / Monat." if _de else " Afterwards only {} {} / month.").format(sb["dazu_monatlich"][0]["name"], _eur(sb["dazu_monatlich"][0]["betrag_eur"]))
+                for _i in sb.get("inklusive") or []:
+                    _txt += (" {} inklusive." if _de else " {} included.").format(_i["name"])
+                if sb.get("lieferzeit"):
+                    _w = sb["lieferzeit"].split()[0]
+                    _txt += (" Lieferzeit {} Wochen." if _de else " Delivery time {} weeks.").format(_w)
+                notes.append(_txt)
             sk = (pr.get("pricing") or {}).get("subscription_kauf")
             if sk and sid == "bodycheck":
                 notes.append(("Auch als Subscription-Kauf: {} Anzahlung + {} × {} / Monat."
@@ -100,6 +121,7 @@ def _hw_amounts(cat_name, sid, match):
         pr = hw.get(ref.split(":", 1)[1])
         if not pr: continue
         if match and match not in pr["display_name"].lower(): continue
+        if (pr.get("pricing") or {}).get("included_with"): continue   # K-0032: inklusive-Artikel nie als „ab“-Preis
         amt = ((pr.get("pricing") or {}).get("rrp_eu_net") or {}).get("amount")
         if amt is not None: out.append(amt)
     return out

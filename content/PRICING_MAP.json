@@ -39,6 +39,7 @@
     ],
     "vending-nutrition": [
       "hw:FN-HW-2000",
+      "hw:FN-HW-2110",
       "hw:FN-HW-2010",
       "hw:FN-HW-2040",
       "hw:FN-HW-2030",
@@ -80,6 +81,7 @@
     ],
     "vending": [
       "hw:FN-HW-2000",
+      "hw:FN-HW-2110",
       "hw:FN-HW-2010",
       "hw:FN-HW-2040",
       "hw:FN-HW-2030",
